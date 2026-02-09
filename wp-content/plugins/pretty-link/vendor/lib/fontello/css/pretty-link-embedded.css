@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'pretty-link';
-  src: url('https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/vendor/lib/fontello/font/pretty-link.eot?18345990');
-  src: url('https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/vendor/lib/fontello/font/pretty-link.eot?18345990#iefix') format('embedded-opentype'),
-       url('https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/vendor/lib/fontello/font/pretty-link.svg?18345990#pretty-link') format('svg');
+  src: url('https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/vendor/lib/fontello/font/pretty-link.eot?18345990');
+  src: url('https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/vendor/lib/fontello/font/pretty-link.eot?18345990#iefix') format('embedded-opentype'),
+       url('https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/vendor/lib/fontello/font/pretty-link.svg?18345990#pretty-link') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'pretty-link';
-    src: url('https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/vendor/lib/fontello/font/pretty-link.svg?18345990#pretty-link') format('svg');
+    src: url('https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/vendor/lib/fontello/font/pretty-link.svg?18345990#pretty-link') format('svg');
   }
 }
 */

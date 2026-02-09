@@ -6,14 +6,14 @@
 .icon32 {
   float: right;
   display: inline-block;
-  background:url('https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/images/pretty-link-32.png') !important;
+  background:url('https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/images/pretty-link-32.png') !important;
   width: 267px !important;
   height: 32px !important;
 }
 
 @media all and (-webkit-min-device-pixel-ratio: 1.5) {
   .icon32 {
-    background-image: url('https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/images/pretty-link-32@2x.png') !important;
+    background-image: url('https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/images/pretty-link-32@2x.png') !important;
     background-size: 267px 32px !important;
   }
 }

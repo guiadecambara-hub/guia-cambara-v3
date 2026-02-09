@@ -3,42 +3,42 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/vendor/lib/montserrat/Montserrat-Regular.ttf") format("truetype");
+  src: url("https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/vendor/lib/montserrat/Montserrat-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url("https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/vendor/lib/montserrat/Montserrat-Medium.ttf") format("truetype");
+  src: url("https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/vendor/lib/montserrat/Montserrat-Medium.ttf") format("truetype");
 }
 @font-face {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url("https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/vendor/lib/montserrat/Montserrat-SemiBold.ttf") format("truetype");
+  src: url("https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/vendor/lib/montserrat/Montserrat-SemiBold.ttf") format("truetype");
 }
 @font-face {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/vendor/lib/montserrat/Montserrat-Bold.ttf") format("truetype");
+  src: url("https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/vendor/lib/montserrat/Montserrat-Bold.ttf") format("truetype");
 }
 @font-face {
   font-family: "Usual";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/vendor/lib/usual/Usual-Regular.otf") format("opentype");
+  src: url("https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/vendor/lib/usual/Usual-Regular.otf") format("opentype");
 }
 @font-face {
   font-family: "Usual";
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url("https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/vendor/lib/usual/Usual-Bold.otf") format("opentype");
+  src: url("https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/vendor/lib/usual/Usual-Bold.otf") format("opentype");
 }
 body[class*="_page_pretty-link-onboarding"] {
   background-color: #f8f9fc;
@@ -70,7 +70,7 @@ body[class*="_page_pretty-link-onboarding"] #pl-admin-header {
   font-family: Helvetica, sans-serif;
   color: #091D2E;
   padding: 83px 20px 65px 20px;
-  background-image: url('https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/images/Confetti.svg');
+  background-image: url('https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/images/Confetti.svg');
   background-size: 100%;
   background-position: top left;
   background-repeat: no-repeat;
@@ -512,7 +512,7 @@ li.prli-onboarding-price-feature {
   position: absolute;
 }
 .prli-onboarding-price-all-features a:after {
-  background-image: url('https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/images/onboarding/icon-caret-right.svg');
+  background-image: url('https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/images/onboarding/icon-caret-right.svg');
   background-size: 10px 10px;
   content: '';
   height: 10px;
@@ -595,25 +595,25 @@ li.prli-onboarding-price-feature {
 }
 .prli-wizard-progress-step > span {
   display: block;
-  background: url(https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/images/onboarding/step-complete.png) no-repeat left top;
+  background: url(https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/images/onboarding/step-complete.png) no-repeat left top;
   background-size: 25px 25px;
   width: 25px;
   height: 25px;
   margin: 0 auto 10px auto;
 }
 .prli-wizard-progress-step.prli-wizard-current-step > span {
-  background: url(https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/images/onboarding/step-current.png) no-repeat left top;
+  background: url(https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/images/onboarding/step-current.png) no-repeat left top;
   background-size: 25px 25px;
 }
 .prli-wizard-progress-step.prli-wizard-current-step-skipped > span {
-  background: url(https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/images/onboarding/step-skipped.png) no-repeat left top !important;
+  background: url(https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/images/onboarding/step-skipped.png) no-repeat left top !important;
   background-size: 100% !important;
 }
 .prli-wizard-progress-step.prli-wizard-current-step ~ .prli-wizard-progress-step {
   color: #5B748A;
 }
 .prli-wizard-progress-step.prli-wizard-current-step ~ .prli-wizard-progress-step > span {
-  background: url(https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/images/onboarding/step-pending.png) no-repeat left top;
+  background: url(https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/images/onboarding/step-pending.png) no-repeat left top;
   background-size: 25px 25px;
 }
 .prli-wizard-current-step > a {
@@ -794,7 +794,7 @@ h2.prli-wizard-finished {
 }
 .prli-wizard-mfp .mfp-close {
   color: transparent !important;
-  background: url(https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/images/onboarding/times.svg) no-repeat center center;
+  background: url(https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/images/onboarding/times.svg) no-repeat center center;
   opacity: 1;
 }
 .prli-wizard-popup {
@@ -1056,7 +1056,7 @@ h2.prli-wizard-finished {
 .prli-wizard-feature-activated h3 span{margin-left: 10px;}
 
 .prli-wizard-feature-activated span.step-complete {
-  background: url(https://blog-cambara-sul.pages.dev/wp-content/plugins/pretty-link/images/onboarding/step-complete.png) no-repeat left top;
+  background: url(https://guia-cambara-v3.pages.dev/wp-content/plugins/pretty-link/images/onboarding/step-complete.png) no-repeat left top;
   background-size: 25px 25px;
   width: 25px;
   height: 25px;
